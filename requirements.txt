@@ -1,0 +1,6 @@
+streamlit
+pydub
+SpeechRecognition
+arabic-reshaper
+python-bidi
+pyaudio
